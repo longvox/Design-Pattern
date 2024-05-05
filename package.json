@@ -1,0 +1,33 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "all": "node index.js",
+    "singleton": "node 1.1_singleton",
+    "builder": "node 1.2_builder",
+    "factory_method": "node 1.3_factory_method",
+    "abstract_factory": "node 1.4_abstract_factory",
+    "prototype": "node 1.5_prototype",
+    "adapter": "node 2.1_adaptor",
+    "bride": "node 2.2_bride",
+    "composite": "node 2.3_composite",
+    "decorator": "node 2.4_decorator",
+    "facade": "node 2.5_facade",
+    "flyweight": "node 2.6_flyweight",
+    "proxy": "node 2.7_proxy",
+    "chain_of_responbility": "node 3.1_chain_of_responsibility",
+    "command": "node 3.2_command",
+    "iterator": "node 3.3_iterator",
+    "mediator": "node 3.4_mediator",
+    "memento": "node 3.5_memento",
+    "observer": "node 3.6_observer",
+    "state": "node 3.7_state",
+    "strategy": "node 3.8_strategy",
+    "template-method": "node 3.9_template_method",
+    "visitor": "node 3.10_visitor"
+  },
+  "author": "Long Vo",
+  "license": "ISC"
+}
